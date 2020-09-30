@@ -22,7 +22,6 @@ body {
   nav ul li a:hover {
     color: #683aa4;
   }
-  / Section /
   section {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -65,12 +64,9 @@ body {
     height: 50px;
     margin-bottom: 20px;
   }
-  / Project /
   #projects .projects {
     margin-bottom: 50px;
   }
-  
-  / Contact /
   #contact {
     text-align: center;
     background-color: #683aa4;
